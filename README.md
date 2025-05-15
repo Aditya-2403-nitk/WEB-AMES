@@ -7,6 +7,6 @@ A simple responsive webpage for AMES club. Built using HTML and CSS.<br>
 - List of upcoming events <br>
 - Responsive layout for mobile and desktop<br>
 <h1>BACKEND TASK</h1><br>
-<b>server.js file made in node.js</b><br>
-<b>It has 2 features to return current server time on JSON through /time route</b><br>
-<b>Returns hello world through hello route </b>
+server.js file made in node.js<br>
+It has 2 features to return current server time on JSON through /time route<br>
+Returns hello world through hello route 
